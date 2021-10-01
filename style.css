@@ -1,0 +1,25 @@
+body{
+
+    background-color: #000;
+    color: #fff;
+    background-image: url("../images/strangers.png");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+
+}
+
+.container{
+
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+
+}
+
+.titulo{
+
+    font-size: 30px;
+    margin: 10px;
+    
+}
